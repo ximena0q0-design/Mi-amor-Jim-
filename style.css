@@ -27,21 +27,21 @@ button{
 
 /* 🌸 FONDO 1 (CONTRASEÑA) */
 .fondo1{
-    background-image: url("foto1.jpg");  /* 🔥 LÍNEA IMPORTANTE */
+    background-image: url("https://animedep.com/wp-content/uploads/2025/07/kaoruko-waguri-de-thuong-ngot-ngao.webp");  /* 🔥 LÍNEA IMPORTANTE */
     background-size: cover;
     background-position: center;
 }
 
 /* 🌸 FONDO 2 (PREGUNTA) */
 .fondo2{
-    background-image: url("foto2.jpg");  /* 🔥 LÍNEA IMPORTANTE */
+    background-image: url("https://animedep.com/wp-content/uploads/2025/07/waguri-kaoruko-toc-bay-nhe.webp");  /* 🔥 LÍNEA IMPORTANTE */
     background-size: cover;
     background-position: center;
 }
 
 /* 🌸 FONDO 3 (FINAL) */
 .fondo3{
-    background-image: url("foto3.jpg");  /* 🔥 LÍNEA IMPORTANTE */
+    background-image: url("https://tse1.mm.bing.net/th/id/OIP.tshtI9AE8aCjHeR4QKCFmwHaFj?pid=Api&P=0&h=180");  /* 🔥 LÍNEA IMPORTANTE */
     background-size: cover;
     background-position: center;
 }
