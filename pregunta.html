@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Pregunta 💖</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="fondo2">
+
+<div class="contenedor">
+    <h1>¿Quieres ser mi esposito? 💕</h1>
+    <button id="si" onclick="moverSi()">Sí 💘</button>
+</div>
+
+<script>
+let contador = 0;
+
+function moverSi(){
+    let boton = document.getElementById("si");
+
+    if(contador < 2){
+        boton.style.position = "absolute";
+        boton.style.left = Math.random()*300 + "px";
+        boton.style.top = Math.random()*300 + "px";
+        contador++;
+    }else{
+        window.location.href = "final.html";
+    }
+}
+</script>
+
+</body>
+</html>
